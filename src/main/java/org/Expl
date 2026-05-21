@@ -1,0 +1,7 @@
+FASE 2 FUNDAMENTOS PARA BACKEND
+
+Con la conexión a mysql desde la aplicación workbench vamos a crear la base dedatos, para eso necesitamos el maven.
+
+Crearemos data.sql y schema.sql para la base de datos y las insercciones de ellas.
+
+y a traveés de una clase pondremos el link y nuestro usuario de mysql para que todo este conectado.
